@@ -1,0 +1,31 @@
+[33mtag v1.0[m
+Tagger: Wind <windfly77@gmail.com>
+Date:   Wed Jun 3 17:51:22 2026 +0200
+
+Idk what to write here, hi ig.
+
+[33mcommit 80785bc03d4f5bc07ec0d30022aab749c8d711b1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;33mtag: [m[1;33mv1.0[m[33m)[m
+Author: Wind <windfly77@gmail.com>
+Date:   Wed Jun 3 17:43:39 2026 +0200
+
+    First release of hello world!
+
+[1mdiff --git a/index.html b/index.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..fc9caaf[m
+[1m--- /dev/null[m
+[1m+++ b/index.html[m
+[36m@@ -0,0 +1,12 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html>[m
+[32m+[m[32m<head>[m
+[32m+[m[32m<title>Hello World!</title>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m
+[32m+[m[32m<h1>Hello world!</h1>[m
+[32m+[m[32m<p>This is the first file in my new Git Repo.</p>[m
+[32m+[m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m

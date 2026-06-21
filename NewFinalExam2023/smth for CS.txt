@@ -1,0 +1,9 @@
+cybertron
+
+Dynamic Data Structure
+1D arrays
+Recursion
+Bubble Sort
+Selective/Binary Sort
+kolejki
+stosy
